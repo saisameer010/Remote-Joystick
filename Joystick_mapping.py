@@ -41,7 +41,7 @@ def main():
     ev=0
     ax=0
     MAX_VJOY = 32767
-    HOST = '10.124.111.77'
+    HOST = 'InsertIP'
     PORT = 32976
     # Create a socket connection.
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
