@@ -23,7 +23,7 @@ If using application like LogmeinHamachi no portforwarding required.
 Else port forward and use the same port in the host program 
 run pythonController
 
-for better results and caliberation use X360ce 
+for better results and calibration use X360ce 
 
 For Video currently using 
 https://github.com/phoboslab/jsmpeg-vnc
