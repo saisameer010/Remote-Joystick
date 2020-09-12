@@ -13,14 +13,20 @@ pip install pyvjoy
 
 ## At client:
 python and pygame are needed.
+
 just set in the appropriate ipaddress.
+
 run joystickMapping
 
 ## At Host:
 Install Vjoy  http://vjoystick.sourceforge.net/site/index.php/download-a-install/download
-configure the number of devices needed up the number of buttons to 14
+
+configure the number of devices needed & up the number of buttons to 14
+
 If using application like LogmeinHamachi no portforwarding required. 
+
 Else port forward and use the same port in the host program 
+
 run pythonController
 
 for better results and calibration use X360ce 
