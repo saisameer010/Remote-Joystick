@@ -1,5 +1,6 @@
 # Remote-Joystick
-# Co-Owner https://github.com/Dead-Stone
+# Co-Owner github.com/Dead-Stone
+           github.com/mvkr9
 This project is used to send the joystick data of client to a host.
 more like steam remoteplay (Without Video , will be updated in the next update).
 Benifits? it has very low latencey.
